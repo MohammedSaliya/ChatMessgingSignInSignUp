@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12416301057",
+    "firebase_url": "https://chatmessgingsigninsignup.firebaseio.com",
+    "project_id": "chatmessgingsigninsignup",
+    "storage_bucket": "chatmessgingsigninsignup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12416301057:android:8201530f4926e3f2",
+        "android_client_info": {
+          "package_name": "com.example.chatmessgingsigninsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12416301057-0r7gbag4cg2d6ftfqte2kg94tr1c8o0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatmessgingsigninsignup",
+            "certificate_hash": "c4ae27bf8fd505f9d0149b2f4be931c59fec45d3"
+          }
+        },
+        {
+          "client_id": "12416301057-66ki5iekp06f8vflqor1u5a0cdjtp6o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0lGcFJey-Q-pFWPuZlNfMY8FlgDU7CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12416301057-66ki5iekp06f8vflqor1u5a0cdjtp6o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
